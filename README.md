@@ -10,18 +10,20 @@ NG-MILKDOWN
 
 [![NPM version](https://img.shields.io/npm/v/ng-milkdown.svg)](https://www.npmjs.com/package/ng-milkdown)
 
-WYSIWYG markdown Editor 🍼 [**Milkdown**](https://github.com/Milkdown/milkdown) for [**Angular**](https://angular.dev/) out of box, only supports Angular **17**+.
+WYSIWYG markdown Editor 🍼 [**Milkdown**](https://github.com/Milkdown/milkdown) for [**Angular**](https://angular.dev/) out of box, supports Angular **17**+.
 Allow you to use native Angular components to create nodeView/pluginView/widgetView, and provide corresponding examples.
 
 ## Version
-`ng-milkdown` is only supported by `Angular` version `>=17.0.0`.
+`ng-milkdown` is supported by `Angular` version `>=17.0.0`.
 
-`ng-milkdown-crepe` only supports `Angular` version `>=18.0.0`.
+`ng-milkdown-crepe` supports `Angular` version `>=18.0.0`.
 
 | Angular | ng-milkdown |
 |---------|-------------|
 | 17.0.0+ | 0.0.3       |
 | 18.0.0+ | 0.1.0-beta0 |
+| 19.0.0+ | 0.1.0-beta1 |
+| 20.0.0+ | 0.1.0-beta1 |
 
 
 ## Example
